@@ -1,0 +1,27 @@
+{
+  "name": "sparsepp.cxx",
+  "version": "1.2018.2",
+  "description": "A fast, memory efficient hash map for C++; Gregory Popovitch (2016).",
+  "keywords": [
+    "cxx",
+    "library",
+    "hashmap",
+    "hash",
+    "map",
+    "memory-efficient"
+  ],
+  "homepage": "https://github.com/nodef/sparsepp.cxx#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/sparsepp.cxx/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/sparsepp.cxx.git"
+  },
+  "license": "BSD-3-Clause",
+  "author": "wolfram77@gmail.com",
+  "main": "sparsepp.h",
+  "scripts": {
+    "test": "exit"
+  }
+}
